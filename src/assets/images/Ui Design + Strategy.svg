@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="282px" height="330px" viewBox="0 0 282 330" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Ui Design + Strategy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50.0000001%" x2="0%" y2="50.0000001%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" offset="51.5176309%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-29.2%" y="-217.2%" width="158.3%" height="534.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="21" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-(UI/UX)" transform="translate(-1129.000000, -294.000000)">
+            <g id="Ui-Design-+-Strategy" transform="translate(1162.000000, 294.000000)">
+                <g id="Group">
+                    <path d="M109.007974,46.1758208 L109,24 L135.656894,55.4301223 C124.395583,63.9380648 118.764928,73.5257701 118.764928,84.1932384 C114.259535,84.1732591 111.011774,84.1732591 109.021644,84.1932384 L109.021575,84 L106.635319,84 L106.63525,84.1932384 C104.64512,84.1732591 101.397359,84.1732591 96.8919659,84.1932384 C96.8919659,73.5257701 91.2613106,63.9380648 80,55.4301223 L106.656894,24 L106.648963,46.055211 C103.461264,46.4720634 101,49.1986022 101,52.5 C101,56.0898509 103.910149,59 107.5,59 C111.089851,59 114,56.0898509 114,52.5 C114,49.4292688 111.870655,46.8558729 109.007974,46.1758208 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                    <circle id="Oval" fill="#FFFFFF" cx="107.5" cy="52.5" r="3.5"></circle>
+                    <polygon id="Combined-Shape" fill="#FFFFFF" points="91 103 91 93 123 93 123 103 127 103 127 216 87 216 87 103"></polygon>
+                    <g id="Group-2">
+                        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="17" height="17"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" x="199" y="0" width="17" height="17"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" x="191" y="68" width="17" height="17"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" x="8" y="68" width="17" height="17"></rect>
+                        <path d="M5.8532398,8.5 L215.85324,8.5" id="Path-2" stroke="#FFFFFF" stroke-width="4"></path>
+                        <rect id="Rectangle" fill="#FFFFFF" x="100" y="0" width="17" height="17"></rect>
+                        <path d="M17,84.1932384 C12.6666667,33.7310795 43.3333333,8.5 109,8.5 C174.666667,8.5 204.666667,33.7310795 199,84.1932384" id="Path-4" stroke="#FFFFFF" stroke-width="3"></path>
+                    </g>
+                    <rect id="Rectangle" fill="url(#linearGradient-1)" opacity="0.4" filter="url(#filter-2)" x="0" y="248" width="216" height="29"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
